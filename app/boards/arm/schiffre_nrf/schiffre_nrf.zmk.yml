@@ -1,0 +1,10 @@
+file_format: "1"
+id: schiffre_nrf
+name: Schiffre NRF
+type: board
+arch: arm
+outputs:
+  - usb
+  - ble
+url: https://github.com/bemeier/schiffre
+exposes: [schiffre]

@@ -1,0 +1,8 @@
+file_format: "1"
+id: schiffre86
+name: SCHIFFRE 86
+type: shield
+url: https://github.com/bemeier/schiffre
+requires: [schiffre]
+features:
+  - keys

@@ -1,0 +1,15 @@
+file_format: "1"
+id: schiffre
+name: Schiffre
+type: interconnect
+url: https://github.com/bemeier/schiffre
+manufacturer: BEMEIER
+description: |
+  Schiffre is a DIY board featuring a custom motherboard/shield combination exposing the keyboard matrix through an Flat Flexibel Cable (FFC).
+node_labels:
+  gpio: schiffre
+  i2c: schiffre_i2c
+  spi: schiffre_spi
+  uart: schiffre_serial
+design_guideline: |
+  TOOD: describe how io pin names relate to the 30 FFC pins...
